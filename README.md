@@ -1,7 +1,7 @@
 # sheesh
 A collection of sheeshes
 
-C sheesh:
+C sheesh (it is messed up ik it's wip):
 
 ```zsh
 ➜  sheesh
